@@ -33,15 +33,8 @@ export default function Footer() {
         </ul>
       </div>
       <div className="developer-info">
-        <p className="p-text">developed with ❤️ by</p>
-        <a
-          target="_blank"
-          href="https://linkfree.eddiehub.io/Abhijeet-Gautam5702"
-        >
-          Abhijeet Gautam
-        </a>
-
-        <a target="_blank" href="https://github.com/Abhijeet-Gautam5702/restaurant-website">
+        <p className="p-text">developed with ❤️ by Jaya Agarwal</p>
+      
           <FaGithub />
         </a>
         <a target="_blank" href="https://twitter.com/abhijeet_gautam">
